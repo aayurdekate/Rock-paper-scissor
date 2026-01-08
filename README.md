@@ -14,6 +14,7 @@
 
 2- Environment setup
    Create `.env` file:
+   GROQ_API_KEY=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
 
 3- Run the Game
    adk web
